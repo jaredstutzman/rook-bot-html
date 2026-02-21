@@ -1,1 +1,1 @@
-live game: https://jaredstutzman.github.io/hill-tanks-html/
+live game: https://jaredstutzman.github.io/rook-bot-html/
